@@ -1,11 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tehaunui</h1>
 <h3 align="center">A junior developer looking for collaboration and work experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tehau26nz" alt="tehau26nz" /></a> </p>
 
 - 🌱 I’m currently learning **Java and JS at Wellington ICT Victoria University**
 
@@ -24,6 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tehau26nz&show_icons=true&locale=en" alt="tehau26nz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehau26nz&" alt="tehau26nz" /></p>
+
 
 <!--
 **tehau26nz/tehau26nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
