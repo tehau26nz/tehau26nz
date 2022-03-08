@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
 
-- 🌱 Junior developer **at Wellington ICT Victoria University**
+- 🌱 Junior developer **at Wellington ICT Graduate Victoria University**
 
 - ⚡ Fun fact **I think I am becoming a kiwi, I am originally from Tahiti**
 
