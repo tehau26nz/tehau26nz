@@ -10,7 +10,12 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://tehaunui.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="tehaunuiss" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/tehaunuiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehaunuiss" height="30" width="40" /></a>
+</p>
+
+<h3 align="left"> Project I'm working on:</h3>
+<p align="left"> https://modal-project-kappa.vercel.app/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
