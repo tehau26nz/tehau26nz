@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
 
-- 🌱 Junior developer **at Wellington ICT Graduate Victoria University**
+- 🌱 Graduate developer **from Wellington Victoria University**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact **I think I am becoming a kiwi, I am originally from Tahiti**
+- ⚡ Fun fact **I come from Tahiti. The official languages of Tahiti are French and Tahitian, with French being the most commonly spoken language.
+Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinated in coconut milk and lime), taro root, and breadfruit, which are staples of the Polynesian diet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,9 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align= "center"><img align="left" src="https://github-readme-stats-blush-nine-41.vercel.app/api/top-langs?username=tehau26nz&show_icons=true&locale=en&layout=compact&langs_count=6&theme=cobalt" alt="tehau26nz" /></p>
+<p align= "center"><img align="left" src="https://github-readme-stats-tehau26nz.vercel.app/api/top-langs?username=tehau26nz&show_icons=true&locale=en&layout=compact&langs_count=6&theme=cobalt" alt="Most Used Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-blush-nine-41.vercel.app/api?username=tehau26nz&show_icons=true&locale=en&theme=cobalt" alt="tehau26nz"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tehau26nz.vercel.app/api?username=tehau26nz&show_icons=true&locale=en&theme=cobalt" alt="GitHub stats"/></p>
 
 <p align= "left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tehau26nz&theme=cobalt" alt="tehau26nz" /></p>
 
