@@ -5,7 +5,7 @@
 
 - 🌱 Graduate developer **from Wellington Victoria University**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact **I come from Tahiti. The official languages of Tahiti are French and Tahitian, with French being the most commonly spoken language.
+- ⚡ Fun fact: **I come from Tahiti. The official languages of Tahiti are French and Tahitian, with French being the most commonly spoken language.
 Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinated in coconut milk and lime), taro root, and breadfruit, which are staples of the Polynesian diet.**
 
 <h3 align="left">Connect with me:</h3>
