@@ -22,8 +22,6 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 </p>
 <p align="left"> <a href="https://reaction-timer-mauve.vercel.app/">Reaction timer</a>
 </p>
-<p align="left"> <a href="https://taupe-puffpuff-4fcc7a.netlify.app/">Next.js practice</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
