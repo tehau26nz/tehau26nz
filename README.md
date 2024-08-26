@@ -14,8 +14,13 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 <a href="https://linkedin.com/in/tehaunuiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehaunuiss" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> Project I'm working on:</h3>
+<h3 align="left"> Projects I've worked on:</h3>
+<p align="left"> <a href="https://preview.education.govt.nz/">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
 </p>
+<p align="left"> <a href="https://gazette.govt.nz/">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
+</p>
+
+<h3 align="left"> Hobby projects:</h3>
 <p align="left"> <a href="https://eshop-cveu.vercel.app/">Tshop online</a>
 </p>
 <p align="left"> <a href="https://modal-project-kappa.vercel.app/">Vue.js practice</a>
@@ -23,13 +28,13 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 <p align="left"> <a href="https://reaction-timer-mauve.vercel.app/">Reaction timer</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Statistics:</h3>
 
-<p align= "center"><img align="left" src="https://github-readme-stats-tehau26nz.vercel.app/api/top-langs?username=tehau26nz&show_icons=true&locale=en&layout=compact&langs_count=6&theme=cobalt" alt="Most Used Languages" /></p>
+<p align= "left"><img align="left" src="https://github-readme-stats-blush-nine-41.vercel.app/api/top-langs/?username=tehau26nz&show_icons=true&locale=en&theme=cobalt&langs_count=8" alt="Most Used Languages"/></p>
 
-<p align= "left"><img align="center" src="https://github-readme-stats-tehau26nz.vercel.app/api?username=tehau26nz&show_icons=true&locale=en&theme=cobalt" alt="GitHub stats"/></p>
+<p align= "center"><img align="center" src="https://github-readme-stats-blush-nine-41.vercel.app/api?username=tehau26nz&show_icons=true&theme=cobalt" alt="My Stats" /></p>
 
-<p align= "left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tehau26nz&theme=cobalt" alt="tehau26nz" /></p>
+<p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehau26nz&theme=cobalt" alt="My Streaks" /></p>
 
 
 <!--
