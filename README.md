@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tehaunui</h1>
-<h3 align="center"> Do you need a tech or dev guy? I'm open for work 🤓 </h3>
+<h1 align="center"> Need a dev? I'm open for work 🤓 </h1>
+<h2 align="center">Hello 👋, I'm Tehaunui</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
 
