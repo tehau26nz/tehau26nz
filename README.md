@@ -1,4 +1,4 @@
-<h1 align="center"> Need a dev? I'm open for work 🤓 </h1>
+<h1 align="center"> I'm a dev open for work 🤓 </h1>
 <h2 align="center">Hello 👋, I'm Tehaunui</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
@@ -24,14 +24,8 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 <h3 align="left"> 🔭 Hobby projects:</h3>
 <p align="left"> <a href="https://eshop-cveu.vercel.app/">Tshop online</a>
 </p>
-<p align="left"> <a href="https://modal-project-kappa.vercel.app/">Vue.js practice</a>
-</p>
-<p align="left"> <a href="https://reaction-timer-mauve.vercel.app/">Reaction timer</a>
-</p>
 
 <h3 align="left">Statistics:</h3>
-
-<p align= "left"><img align="left" src="https://github-readme-stats-blush-nine-41.vercel.app/api/top-langs/?username=tehau26nz&show_icons=true&locale=en&theme=cobalt&langs_count=8" alt="Most Used Languages"/></p>
 
 <p align= "center"><img align="center" src="https://github-readme-stats-blush-nine-41.vercel.app/api?username=tehau26nz&show_icons=true&theme=cobalt" alt="My Stats" /></p>
 
