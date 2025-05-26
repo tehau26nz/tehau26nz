@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
 
-<ul align="left"><li>🌱 Front-end Developer</li>
-<li>😄 Pronouns: He/Him</li>
-<li>⚡ Fun fact:</li></ul>
+<h3>🌱 Software Developer </h3>
 <p align="left"> I come from Tahiti. French 🇫🇷 and Tahitian 🇵🇫 are the official languages, and English in the hospo industry on the main island.<br>
 Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinated in coconut milk and lime), taro root, and breadfruit, which are staples of the Polynesian diet.</p>
+
+<h3>🔭 Currently working on a couple of <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js Logo" width="20"/> projects</h3>
+<p align="left"> <a href="https://foodandspiceodyssey.nz//">Food and Spice Odyssey</a>
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
@@ -15,14 +16,10 @@ Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinate
 <a href="https://linkedin.com/in/tehaunuiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehaunuiss" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> 💬 Ask me about my project contributions</h3>
+<h3 align="left"> 💬 Projects I have contributed</h3>
 <p align="left"> <a href="https://preview.education.govt.nz/">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
 </p>
 <p align="left"> <a href="https://gazette.govt.nz/">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
-</p>
-
-<h3 align="left"> 🔭 Hobby projects:</h3>
-<p align="left"> <a href="https://eshop-cveu.vercel.app/">Tshop online</a>
 </p>
 
 <h3 align="left">Statistics:</h3>
