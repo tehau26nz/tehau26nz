@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehau26nz&label=Profile%20views&color=0e75b6&style=flat" alt="tehau26nz" /> </p>
 
 <h3>🌱 Software Developer </h3>
-<p align="left"> I come from Tahiti. French 🇫🇷 and Tahitian 🇵🇫 are the official languages, and English in the hospo industry on the main island.<br>
-Tahiti's traditional cuisine includes dishes like poisson cru (raw fish marinated in coconut milk and lime), taro root, and breadfruit, which are staples of the Polynesian diet.</p>
+<h4>Fun facts</h4>
+<p align="left"> I was born and raised in Tahiti 🏝️. French 🇫🇷 and Tahitian 🇵🇫 are the official languages.<br>
+We do learn English at school and its important since the country is in the middle of the Pacific 🌊🪸.<br>
+Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coconut milk and lime)</i>, taro root, and breadfruit <i>(or 'uru)</i>, which are staples of the Polynesian diet.</p>
 
 <h3>🔭 Currently working on a couple of <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js Logo" width="20"/> projects</h3>
 <p align="left"> <a href="https://foodandspiceodyssey.nz//">Food and Spice Odyssey</a>
