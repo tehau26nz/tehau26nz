@@ -10,18 +10,18 @@ We do learn English at school and its important since the country is in the midd
 Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coconut milk and lime)</i>, taro root, and breadfruit <i>(or 'uru)</i>, which are staples of the Polynesian diet.</p>
 
 <h3>🔭 Currently working on a couple of <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js Logo" width="20"/> projects</h3>
-<p align="left"> <a href="https://foodandspiceodyssey.nz/" target="blank">Food and Spice Odyssey</a>
+<p align="left"> <a href="https://foodandspiceodyssey.nz/" target="_blank">Food and Spice Odyssey</a>
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-<a href="https://tehaunui.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="tehaunuiss" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/tehaunuiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehaunuiss" height="30" width="40" /></a>
+<a href="https://tehaunui.com" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="tehaunuiss" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/tehaunuiss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehaunuiss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 💬 Projects I have contributed</h3>
-<p align="left"> <a href="https://preview.education.govt.nz/" target="blank">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
+<p align="left"> <a href="https://preview.education.govt.nz/" target="_blank">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
 </p>
-<p align="left"> <a href="https://gazette.govt.nz/" target="blank">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
+<p align="left"> <a href="https://gazette.govt.nz/" target="_blank">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
 </p>
 
 <h3 align="left">Statistics:</h3>
