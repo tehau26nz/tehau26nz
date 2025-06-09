@@ -10,7 +10,7 @@ We do learn English at school and its important since the country is in the midd
 Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coconut milk and lime)</i>, taro root, and breadfruit <i>(or 'uru)</i>, which are staples of the Polynesian diet.</p>
 
 <h3>🔭 Currently working on a couple of <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js Logo" width="20"/> projects</h3>
-<p align="left"> <a href="https://foodandspiceodyssey.nz//">Food and Spice Odyssey</a>
+<p align="left"> <a href="https://foodandspiceodyssey.nz/" target="blank">Food and Spice Odyssey</a>
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
@@ -19,9 +19,9 @@ Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coc
 </p>
 
 <h3 align="left"> 💬 Projects I have contributed</h3>
-<p align="left"> <a href="https://preview.education.govt.nz/">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
+<p align="left"> <a href="https://preview.education.govt.nz/" target="blank">Edgovt NZ (Features: Latest News Panel, Drupal & SCSS styling)</a>
 </p>
-<p align="left"> <a href="https://gazette.govt.nz/">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
+<p align="left"> <a href="https://gazette.govt.nz/" target="blank">Gazette NZ (Advance Search: A11y & SCSS styling)</a>
 </p>
 
 <h3 align="left">Statistics:</h3>
