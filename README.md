@@ -11,6 +11,7 @@ Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coc
 
 <h3>🔭 Currently working on a couple of <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js Logo" width="20"/> projects</h3>
 <p align="left"> <a href="https://foodandspiceodyssey.nz/" target="_blank">Food and Spice Odyssey</a>
+<p align="left"> <a href="https://blog.tehaunui.com/" target="_blank">THN personal blog</a>
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
@@ -26,7 +27,9 @@ Tahitian's traditional dishes includes poisson cru <i>(raw fish marinated in coc
 
 <h3 align="left">Statistics:</h3>
 
+<!--
 <p align= "center"><img align="center" src="https://github-readme-stats-blush-nine-41.vercel.app/api?username=tehau26nz&show_icons=true&theme=cobalt" alt="My Stats" /></p>
+-->
 
 <p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehau26nz&theme=cobalt" alt="My Streaks" /></p>
 
